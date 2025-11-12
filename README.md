@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Ashwin</h1>
+<h1 align="center">Hi 👋, I'm Ashwin Jaiswal</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -27,7 +27,7 @@
 
 💻 I'm a **Full Stack Web Developer** skilled in the **MERN stack** (MongoDB, Express, React, Node.js).  
 🎯 I love building **beautiful, performant, and user-friendly web applications**.  
-🌱 Currently exploring **Next.js** and **TypeScript**.  
+🌱 Currently exploring **React.js** and **JavaScript**.  
 🧩 Passionate about **problem solving** and **UI/UX design**.  
 ⚡ Fun fact: I solve coding problems on **LeetCode** and listen to lo-fi while coding!
 
