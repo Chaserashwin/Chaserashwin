@@ -142,5 +142,4 @@ Music playing website
 
 ---
 
-⭐ **From [Chaserashwin](https://github.com/Chaserashwin)**  
-🎨 _Made with ❤️ using Markdown, skill-icons, and dynamic GitHub widgets_
+⭐ **From [Chaserashwin](https://github.com/Chaserashwin)**
