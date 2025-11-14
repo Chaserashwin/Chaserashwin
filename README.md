@@ -41,7 +41,7 @@
   <!-- Card 1 -->
   <a href="https://youtube-chaserashwin.vercel.app/" target="_blank" style="text-decoration:none;">
     <div style="
-      width:280px;
+      width:80px;
       border-radius:14px;
       overflow:hidden;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
@@ -60,7 +60,7 @@
   <!-- Card 2 -->
   <a href="https://bookit-frontend-smoky.vercel.app/" target="_blank" style="text-decoration:none;">
     <div style="
-      width:280px;
+      width:80px;
       border-radius:14px;
       overflow:hidden;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
@@ -79,7 +79,7 @@
   <!-- Card 3 -->
   <a href="https://linker-one-chi.vercel.app/" target="_blank" style="text-decoration:none;">
     <div style="
-      width:280px;
+      width:80px;
       border-radius:14px;
       overflow:hidden;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
@@ -98,7 +98,7 @@
   <!-- Card 4 -->
   <a href="https://chaser-cart-frontend.vercel.app/" target="_blank" style="text-decoration:none;">
     <div style="
-      width:280px;
+      width:80px;
       border-radius:14px;
       overflow:hidden;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
@@ -117,7 +117,7 @@
   <!-- Card 5 -->
   <a href="https://event0-frontend.vercel.app/" target="_blank" style="text-decoration:none;">
     <div style="
-      width:280px;
+      width:80px;
       border-radius:14px;
       overflow:hidden;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
@@ -136,7 +136,7 @@
   <!-- Card 6 -->
   <a href="https://devtinder-frontchaserashwin.vercel.app/" target="_blank" style="text-decoration:none;">
     <div style="
-      width:280px;
+      width:80px;
       border-radius:14px;
       overflow:hidden;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
@@ -155,7 +155,7 @@
   <!-- Card 7 -->
   <a href="https://chaserashwin.github.io/MusicPlayer/" target="_blank" style="text-decoration:none;">
     <div style="
-      width:280px;
+      width:80px;
       border-radius:14px;
       overflow:hidden;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
@@ -170,73 +170,6 @@
       </div>
     </div>
   </a>
-
-</div>
-
-<!-- ## 💼 Featured Projects -->
-
-<div align="center">
-
-### 🎥 YouTube Clone
-
-Streaming website  
-<a href="https://youtube-chaserashwin.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-7.png" width="400" alt="YouTube Clone Preview" />
-</a>
-
----
-
-### 📘 BookIt
-
-Book your new experience  
-<a href="https://bookit-frontend-smoky.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-6.png" width="400" alt="BookIt Preview" />
-</a>
-
----
-
-### 🌐 Linker
-
-Social media website  
-<a href="https://linker-one-chi.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-1.png" width="400" alt="Linker Preview" />
-</a>
-
----
-
-### 🛒 ChaserCart
-
-E-commerce website  
-<a href="https://chaser-cart-frontend.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-2.png" width="400" alt="ChaserCart Preview" />
-</a>
-
----
-
-### 🎫 Event0
-
-Event management platform  
-<a href="https://event0-frontend.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-3.png" width="400" alt="Event0 Preview" />
-</a>
-
----
-
-### 💞 devTinder
-
-Connecting developers  
-<a href="https://devtinder-frontchaserashwin.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-5.png" width="400" alt="devTinder Preview" />
-</a>
-
----
-
-### 🎵 Apna Gana
-
-Music playing website  
-<a href="https://chaserashwin.github.io/MusicPlayer/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-4.png" width="400" alt="Apna Gana Preview" />
-</a>
 
 </div>
 
