@@ -41,7 +41,7 @@
   <!-- Card 1 -->
   <a href="https://youtube-chaserashwin.vercel.app/" target="_blank" style="text-decoration:none;">
     <div style="
-      width:80px;
+      width:20px;
       border-radius:14px;
       overflow:hidden;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
