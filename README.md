@@ -25,11 +25,20 @@
 
 ## 🚀 About Me
 
-💻 I'm a **Full Stack Web Developer** skilled in the **MERN stack** (MongoDB, Express, React, Node.js).  
+💻 I'm a **Full Stack Web Developer** with hands-on experience building end-to-end web
+applications using React, Next.js, Node.js, Express, MongoDB, and TypeScript.
+⚡Currently working as a Full Stack Intern at a fintech startup, contributing to
+production-ready UI modules and backend-integrated features.
+🔹 Strong interest in building clean UIs backed by scalable APIs  
+🔹 Experience with authentication, REST APIs, real-time features, and state management  
+🔹 Actively looking for Full Stack / Frontend / Backend Intern or Junior roles
 🎯 I love building **beautiful, performant, and user-friendly web applications**.  
 🌱 Currently exploring **React.js** and **JavaScript**.  
-🧩 Passionate about **problem solving** and **UI/UX design**.  
-⚡ Fun fact: I solve coding problems on **LeetCode** and listen to lo-fi while coding!
+🧩 Passionate about **problem solving** and **UI/UX design**.
+
+📫 Email: jaiswalashwin398@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ashwin--jaiswal  
+💻 Portfolio: https://porfolio-chaserashwin.vercel.app
 
 ---
 
@@ -37,29 +46,11 @@
 
 <div align="center">
 
-### 🎥 YouTube Clone
+### 💞 devTinder
 
-Streaming website  
-<a href="https://youtube-chaserashwin.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-7.png" width="400" alt="YouTube Clone Preview" />
-</a>
-
----
-
-### 📘 BookIt
-
-Book your new experience  
-<a href="https://bookit-frontend-smoky.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-6.png" width="400" alt="BookIt Preview" />
-</a>
-
----
-
-### 🌐 Linker
-
-Social media website  
-<a href="https://linker-one-chi.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-1.png" width="400" alt="Linker Preview" />
+Connecting developers  
+<a href="https://devtinder-frontchaserashwin.vercel.app/" target="_blank">
+<img src="https://porfolio-chaserashwin.vercel.app/work-5.png" width="400" alt="devTinder Preview" />
 </a>
 
 ---
@@ -73,6 +64,24 @@ E-commerce website
 
 ---
 
+### 🎥 YouTube Clone
+
+Streaming website  
+<a href="https://youtube-chaserashwin.vercel.app/" target="_blank">
+<img src="https://porfolio-chaserashwin.vercel.app/work-7.png" width="400" alt="YouTube Clone Preview" />
+</a>
+
+---
+
+### 🌐 Linker
+
+Social media website  
+<a href="https://linker-one-chi.vercel.app/" target="_blank">
+<img src="https://porfolio-chaserashwin.vercel.app/work-1.png" width="400" alt="Linker Preview" />
+</a>
+
+---
+
 ### 🎫 Event0
 
 Event management platform  
@@ -82,20 +91,11 @@ Event management platform
 
 ---
 
-### 💞 devTinder
+### 📘 BookIt
 
-Connecting developers  
-<a href="https://devtinder-frontchaserashwin.vercel.app/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-5.png" width="400" alt="devTinder Preview" />
-</a>
-
----
-
-### 🎵 Apna Gana
-
-Music playing website  
-<a href="https://chaserashwin.github.io/MusicPlayer/" target="_blank">
-<img src="https://porfolio-chaserashwin.vercel.app/work-4.png" width="400" alt="Apna Gana Preview" />
+Book your new experience  
+<a href="https://bookit-frontend-smoky.vercel.app/" target="_blank">
+<img src="https://porfolio-chaserashwin.vercel.app/work-6.png" width="400" alt="BookIt Preview" />
 </a>
 
 </div>
